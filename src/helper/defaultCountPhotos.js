@@ -1,0 +1,1 @@
+export const DEFAULT_COUNT_PHOTOS = 16;
